@@ -1,0 +1,35 @@
+div {
+    border: 1px solid red;
+}
+
+img {
+    width: 200px;
+}
+.me {
+    Border:20px solid pink;
+    margin:10px;
+    padding:21px;
+}
+.friends{
+    border: 15px dashed green;
+    margin:15px;
+    padding:15px;
+}
+body{
+    background-color:  wheat;
+}
+img{
+    width:100px;
+}
+h1{
+    color:purple;
+}
+p{
+    color:blue;
+}
+h2{
+    color:orange;
+}
+h3{
+    color:turquoise;
+}
